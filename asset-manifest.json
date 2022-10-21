@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_sensors/static/css/main.073c9b0a.css",
+    "main.js": "/react_sensors/static/js/main.e98a2640.js",
+    "static/js/787.991f1c17.chunk.js": "/react_sensors/static/js/787.991f1c17.chunk.js",
+    "index.html": "/react_sensors/index.html",
+    "main.073c9b0a.css.map": "/react_sensors/static/css/main.073c9b0a.css.map",
+    "main.e98a2640.js.map": "/react_sensors/static/js/main.e98a2640.js.map",
+    "787.991f1c17.chunk.js.map": "/react_sensors/static/js/787.991f1c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e98a2640.js"
+  ]
+}
